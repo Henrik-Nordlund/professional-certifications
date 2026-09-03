@@ -24,4 +24,4 @@ En sammanhållen Learning Path inom Active Directory och Microsoft Entra ID.
 ## Other Certifications
 
 ### ITIL 4 Foundation
-<a hrefhttps://github.com/Henrik-Nordlund/professional-certifications/blob/main/ITIL4-Foundation-HenrikNordlund.pdf
+<a href= "https://github.com/Henrik-Nordlund/professional-certifications/blob/main/ITIL4-Foundation-HenrikNordlund.pdf"<View certificate></a>
