@@ -11,7 +11,7 @@ En sammanhållen Learning Path inom Active Directory och Microsoft Entra ID.
 
 ### 2. Designing and Implementing Active Directory and Entra ID
    - Pluralsight Certificate of Completion
-   - <a href= "https://github.com/Henrik-Nordlund/professional-certifications/blob/main/Pluralsight-AD-Entra-01-The-Big-Picture.pdf">View certificate</a>
+   - <a href= "https://github.com/Henrik-Nordlund/professional-certifications/blob/main/Pluralsight-AD-Entra-02-Designing and Implementing AD and Entra ID.pdf">View certificate</a>
 
 
 ### 3. Administering Active Directory and Entra ID
