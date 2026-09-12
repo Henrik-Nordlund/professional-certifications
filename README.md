@@ -18,6 +18,8 @@ En sammanhållen Learning Path inom Active Directory och Microsoft Entra ID.
 - <a href= "https://github.com/Henrik-Nordlund/professional-certifications/blob/main/Pluralsight-AD-Entra-03-Administering Active Directory and Entra ID.pdf">View certificate</a>
 
 ### 4. Credential Management and Access Control with Active Directory and Entra ID
+- Pluralsight Certificate of Completion
+- <a href= "https://github.com/Henrik-Nordlund/professional-certifications/blob/main/Pluralsight-AD-Entra-01-The-Big-Picture.pdf">View certificate</a>
 
 ### 5. Work with Forests and Domains with Active Directory
 
