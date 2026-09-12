@@ -22,10 +22,13 @@ En sammanhållen Learning Path inom Active Directory och Microsoft Entra ID.
 - <a href= "https://github.com/Henrik-Nordlund/professional-certifications/blob/main/Pluralsight-AD-Entra-04-Credential Management and Access Control.pdf">View certificate</a>
 
 ### 5. Work with Forests and Domains with Active Directory
+- Instructor-led hands-on lab
 
 ### 6. Manage Accounts in Active Directory
+- Instructor-led hands-on lab
 
 ### 7. Implement Group Policy Security in Active Directory
+- Instructor-led hands-on lab
 
 ## Other Certifications
 
