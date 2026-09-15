@@ -23,6 +23,7 @@ En sammanhållen Learning Path inom Active Directory och Microsoft Entra ID.
 
 ### 5. Work with Forests and Domains with Active Directory
 - Instructor-led hands-on lab
+- Completed on 15th September 2026
 
 ### 6. Manage Accounts in Active Directory
 - Instructor-led hands-on lab
